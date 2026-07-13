@@ -26,4 +26,4 @@ SQLite
 ## Example Questions
 - Which states produced over 100 million pounds of cheese in April 2023?
 - Which states had no milk production in 2023?
-- Compare production across commodities.
+- Compare production across commodities. 
